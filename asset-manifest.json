@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pick_color/static/css/main.619f5e6d.css",
+    "main.js": "/pick_color/static/js/main.59d95595.js",
+    "index.html": "/pick_color/index.html",
+    "main.619f5e6d.css.map": "/pick_color/static/css/main.619f5e6d.css.map",
+    "main.59d95595.js.map": "/pick_color/static/js/main.59d95595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619f5e6d.css",
+    "static/js/main.59d95595.js"
+  ]
+}
